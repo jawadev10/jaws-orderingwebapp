@@ -1,0 +1,30 @@
+C:\Users\Shanks\Desktop\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\Gestion privé des clients.exe.config
+C:\Users\Shanks\Desktop\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\Gestion privé des clients.exe
+C:\Users\Shanks\Desktop\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\Gestion privé des clients.pdb
+C:\Users\Shanks\Desktop\Projet Medol\Gestion privé des clients\Gestion privé des clients\obj\Debug\Gestion_privé_des_clients.Form1.resources
+C:\Users\Shanks\Desktop\Projet Medol\Gestion privé des clients\Gestion privé des clients\obj\Debug\Gestion_privé_des_clients.Properties.Resources.resources
+C:\Users\Shanks\Desktop\Projet Medol\Gestion privé des clients\Gestion privé des clients\obj\Debug\Gestion privé des clients.csproj.GenerateResource.cache
+C:\Users\Shanks\Desktop\Projet Medol\Gestion privé des clients\Gestion privé des clients\obj\Debug\Gestion privé des clients.exe
+C:\Users\Shanks\Desktop\Projet Medol\Gestion privé des clients\Gestion privé des clients\obj\Debug\Gestion privé des clients.pdb
+C:\Users\Shanks\Desktop\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\EntityFramework.dll
+C:\Users\Shanks\Desktop\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shanks\Desktop\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\EntityFramework.xml
+C:\Users\Shanks\Desktop\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shanks\Desktop\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Shanks\Desktop\Projet Medol\Gestion privé des clients\Gestion privé des clients\obj\Debug\Gestion privé des clients.csproj.CopyComplete
+C:\Users\Shanks\Desktop\Projet Medol\Gestion privé des clients\Gestion privé des clients\obj\Debug\Gestion privé des clients.csprojAssemblyReference.cache
+E:\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\Gestion privé des clients.exe.config
+E:\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\Gestion privé des clients.exe
+E:\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\Gestion privé des clients.pdb
+E:\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\EntityFramework.dll
+E:\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\EntityFramework.xml
+E:\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projet Medol\Gestion privé des clients\Gestion privé des clients\bin\Debug\fr\EntityFramework.resources.dll
+E:\Projet Medol\Gestion privé des clients\Gestion privé des clients\obj\Debug\Gestion privé des clients.csprojAssemblyReference.cache
+E:\Projet Medol\Gestion privé des clients\Gestion privé des clients\obj\Debug\Gestion_privé_des_clients.Form1.resources
+E:\Projet Medol\Gestion privé des clients\Gestion privé des clients\obj\Debug\Gestion_privé_des_clients.Properties.Resources.resources
+E:\Projet Medol\Gestion privé des clients\Gestion privé des clients\obj\Debug\Gestion privé des clients.csproj.GenerateResource.cache
+E:\Projet Medol\Gestion privé des clients\Gestion privé des clients\obj\Debug\Gestion privé des clients.csproj.CopyComplete
+E:\Projet Medol\Gestion privé des clients\Gestion privé des clients\obj\Debug\Gestion privé des clients.exe
+E:\Projet Medol\Gestion privé des clients\Gestion privé des clients\obj\Debug\Gestion privé des clients.pdb

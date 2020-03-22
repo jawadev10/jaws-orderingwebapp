@@ -1,0 +1,45 @@
+<h4 class="dispaly-4">Service désiré supplémentaire</h4>
+<hr>
+<form #form="ngForm" autocomplete="off" (submit)="onSubmit(form)">
+    <input type="hidden" name ="OrderItemid" #OrderItemid="ngModel" [(ngModel)]="formData.OrderItemid">
+    <input type="hidden" name ="OrderId" #OrderId="ngModel" [(ngModel)]="formData.OrderId">
+    <input type="hidden" name ="ItemName" #ItemName="ngModel" [(ngModel)]="formData.ItemName">
+    <div class="form-group">
+        <label>Service désiré</label>
+        <select name ="itemID" #itemID="ngModel" [(ngModel)]="formData.itemID" class="form-control" (change)="updatePrice($event.target)" 
+        [class.is-invalid]="!isValid && formData.itemID==0" >
+            <option value="0">-Choisissez-</option>
+            <option *ngFor="let item of itemList" value="{{item.ItemID}}">{{item.Name}}</option>
+        </select>
+    </div>
+    <div class="form-row">
+    <div class="form-group col-md-6">
+        <label>Prix</label>
+        <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text">€</div>
+                 </div>
+                 <input name ="Prix" #Prix="ngModel" [(ngModel)]="formData.Prix" class="form-control" readonly>
+    
+            </div>
+        </div>
+    <div class="form-group col-md-6">
+        <label>Quantité</label>
+        <input name ="Quantity" #Quantity="ngModel" [(ngModel)]="formData.Quantity" class="form-control" (keyup)="updateTotal()"
+        [class.is-invalid]="!isValid && formData.Quantity==0">
+    </div>
+    </div>
+    <div class="form-group">
+    <label>Total</label>
+    <div class="input-group">
+            <div class="input-group-prepend">
+                <div class="input-group-text">€</div>
+             </div>
+             <input name ="Total" #Total="ngModel" [(ngModel)]="formData.Total" class="form-control" readonly>
+        </div>
+</div>
+<div class="form-group">
+    <button type="submit" class="btn btn-dark"><i class="fa fa-database"></i>Valider</button>
+    <button type="button" class="btn btn-outline-dark ml-1" [mat-dialog-close]><i class="fa fa-close"></i>Annuler</button>
+</div>
+</form>
